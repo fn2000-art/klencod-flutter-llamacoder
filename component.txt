@@ -1,0 +1,3 @@
+src/features/upload/
+src/features/convert/
+src/features/manifest/

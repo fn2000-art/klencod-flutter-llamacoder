@@ -1,0 +1,1 @@
+idle → detecting → configuring → building → done | error
